@@ -1,0 +1,17 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot4.js",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "tmi.js": "^1.5.0",
+    "tunnel-stream": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
